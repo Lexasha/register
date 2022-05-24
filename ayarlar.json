@@ -1,0 +1,30 @@
+  {
+    "sahip" : "555367428951900163",
+    "prefix" : ".",
+    "footer" : "ЯRoyal",
+    "botdurum" : "ЯRoyal | Register",
+
+    "tag" : "",
+    "etikettag" : "",
+    "sembol" : "'",
+  
+    "yetkiliRol" : ["862315152745300008", "", ""],
+    "vipRol" : "974036194809761842",
+    "boosterRol" : "972225399620763668",
+    "kayıtsızRol" : "862312162352955412",
+    "erkekRol1" : "862041930200645678",
+    "erkekRol2" : "974513349939331102",
+    "kadınRol1" : "862041930148610063",
+    "kadınRol2" : "974513349939331102",
+
+    "tagRol" : "",
+    "tagLog" : "",
+
+    "SunucuID" : "862041930148610058",
+    "hosgeldinKanal" : "974132509661093888",
+    "sohbetKanal" : "",
+    "botSesKanal" : "870235924594835486",
+  
+    "yes" : "✅",
+    "no" : "❎"
+}
